@@ -1,0 +1,170 @@
+{
+  "Entrées": {
+    "tva_rate": 10,
+    "category": "alimentation",
+    "items": {
+      "Salade César": 8.5,
+      "Charcuterie": 18.0
+    }
+  },
+  "Plats Principaux": {
+    "tva_rate": 10,
+    "category": "alimentation",
+    "items": {
+
+      "Steak Frites": 22.0,
+      "Saumon Grillé": 18.5,
+      "Pasta Carbonara": 15.0,
+      "Burger Maison": 16.5,
+      "Côte de bœuf": 28.0,
+      "Magret de canard": 24.0,
+      "Poisson du jour": 19.5,
+      "Risotto aux champignons": 17.0,
+      "Lasagnes maison": 14.5,
+      "Couscous royal": 20.0,
+      "Paella Valenciana": 22.5,
+      "Blanquette de veau": 19.0
+    }
+  },
+  "Desserts": {
+    "tva_rate": 10,
+    "category": "alimentation",
+    "items": {
+      "Tiramisu": 6.5,
+      "Tarte Tatin": 7.0,
+      "Glace Vanille": 4.5,
+      "Mousse au Chocolat": 5.5,
+      "Crème brûlée": 6.0,
+      "Fondant au chocolat": 7.5,
+      "Tarte citron meringuée": 6.5,
+      "Profiteroles": 7.0,
+      "Salade de fruits": 5.0,
+      "Café gourmand": 8.5,
+      "Cheese-cake": 6.5,
+      "Sorbet fruits rouges": 4.5
+    }
+  },
+  "Boissons Chaudes": {
+    "tva_rate": 10,
+    "category": "boisson sans alcool",
+    "items": {
+      "Café": 2.0,
+      "Café allongé": 2.2,
+      "Espresso": 1.8,
+      "Cappuccino": 3.0,
+      "Thé": 2.5,
+      "Thé vert": 2.8,
+      "Chocolat chaud": 3.5,
+      "Café gourmand": 8.5
+    }
+  },
+  "Boissons Froides": {
+    "tva_rate": 10,
+    "category": "boisson sans alcool",
+    "items": {
+      "Coca-Cola": 3.5,
+      "Coca-Cola Zéro": 3.5,
+      "Sprite": 3.5,
+      "Orangina": 3.5,
+      "Eau plate": 2.5,
+      "Eau gazeuse": 2.8,
+      "Jus d'orange": 3.8,
+      "Jus de pomme": 3.5,
+      "Ice Tea": 3.5,
+      "Limonade": 3.8
+    }
+  },
+  "Vins & Alcools": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Vin Rouge (verre)": 5.0,
+      "Vin Blanc (verre)": 5.0,
+      "Vin Rosé (verre)": 4.5,
+      "Champagne (coupe)": 8.5,
+      "Bière pression": 4.5,
+      "Bière bouteille": 4.0,
+      "Whisky": 7.5,
+      "Vodka": 6.5,
+      "Gin Tonic": 7.0,
+      "Mojito": 8.5,
+      "Sangria (verre)": 5.5,
+      "Pastis": 4.5
+    }
+  },
+  "Apéritifs": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Kir": 4.0,
+      "Kir Royal": 7.5,
+      "Porto": 5.5,
+      "Martini": 5.0,
+      "Ricard": 4.5,
+      "Planche apéro": 15.0,
+      "Olives": 3.5,
+      "Cacahuètes": 2.5
+    }
+  },
+  "Menu Enfant": {
+    "tva_rate": 10,
+    "category": "alimentation",
+    "items": {
+      "Steak haché frites": 8.5,
+      "Nuggets frites": 7.5,
+      "Pâtes bolognaise": 7.0,
+      "Pizza enfant": 8.0,
+      "Poisson pané": 8.5,
+      "Glace 2 boules": 3.5,
+      "Compote": 2.5,
+      "Jus de fruits": 2.0
+    }
+  },
+  "Salades": {
+    "tva_rate": 10,
+    "category": "alimentation",
+    "items": {
+      "Salade Niçoise": 12.5,
+      "Salade de chèvre": 11.0,
+      "Salade César": 10.5,
+      "Salade Landaise": 13.5,
+      "Salade Norvégienne": 14.0,
+      "Salade Composée": 9.5,
+      "Salade Grecque": 10.0
+    }
+  },
+  "Pizza": {
+    "tva_rate": 10,
+    "category": "alimentation",
+    "items": {
+      "Marguerite": 10.0,
+      "Reine": 12.0,
+      "Calzone": 13.0,
+      "Sicilienne": 13.0,
+      "Chevre miel": 14.0,
+      "Crevettes": 16.0,
+      "Aubergine": 16.0,
+      "4_saisons": 16.0,
+      "4_fromages": 16.0,
+      "Cannibale": 16.0,
+      "Parme": 18.0,
+      "Calabrese": 18.0,
+      "Medusa": 18.0
+    }
+  },
+  "Plats à Emporter": {
+    "tva_rate": 5.5,
+    "category": "emporté",
+    "items": {
+      "Pizza Margherita (à emporter)": 14.0,
+      "Burger Maison (à emporter)": 16.5,
+      "Sandwich jambon beurre": 4.5,
+      "Panini": 6.0,
+      "Salade César (à emporter)": 10.5,
+      "Wrap poulet": 7.5,
+      "Quiche lorraine": 5.5,
+      "Croissant": 1.8,
+      "Pain au chocolat": 1.5
+    }
+  }
+}

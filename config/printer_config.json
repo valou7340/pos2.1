@@ -1,0 +1,23 @@
+{
+  "kitchen_printer": {
+    "enabled": true,
+    "ip": "192.168.1.204",
+    "port": 9100,
+    "timeout": 5,
+    "name": "Imprimante Cuisine"
+  },
+  "receipt_printer": {
+    "enabled": true,
+    "ip": "192.168.1.203",
+    "port": 9100,
+    "timeout": 5,
+    "name": "Imprimante Tickets"
+  },
+  "bar_printer": {
+    "enabled": false,
+    "ip": "192.168.1.102",
+    "port": 9100,
+    "timeout": 5,
+    "name": "Imprimante Bar"
+  }
+}
