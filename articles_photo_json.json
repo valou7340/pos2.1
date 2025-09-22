@@ -1,0 +1,108 @@
+{
+  "Bières Pression": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Tiger Deck 25cl": 3.5,
+      "Tiger Deck 50cl": 5.5,
+      "Grimbergen 25cl": 4.0,
+      "Grimbergen 50cl": 5.0
+    }
+  },
+  "Bières Bouteilles": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Corona 33cl": 5.0,
+      "Sol Bottle Blanche 33cl": 5.0,
+      "Tripel Karmeliet Rouge 33cl": 5.0,
+      "Bière sans alcool 33cl": 3.50,
+      "Panaché 33cl": 3.50
+    }
+  },
+  "Jus de Fruits & Sodas": {
+    "tva_rate": 10,
+    "category": "boisson sans alcool",
+    "items": {
+      "Jus de Fruits 25cl": 3.50,
+      "Cola 33cl": 4.0,
+      "Tonic 20cl": 4.0,
+      "Limonade 25cl": 4.0,
+      "Diabolo 25cl": 4.0,
+      "Jus de Glace 33cl": 4.0,
+      "Schweppes Agrumes 25cl": 4.0
+    }
+  },
+  "Eaux Minérales & Sirops": {
+    "tva_rate": 10,
+    "category": "boisson sans alcool",
+    "items": {
+      "Eau plate Spa Reine 50cl": 3.50,
+      "Eau plate Spa Reine 1L": 6.0,
+      "Eau gazeuse Spa Reine 50cl": 3.50,
+      "Eau gazeuse Spa Reine 1L": 6.0,
+      "Perrier 33cl": 4.0,
+      "Sirops": 0.0
+    }
+  },
+  "Alcools": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Whisky Ballantines 4cl": 6.0,
+      "Jack Daniels 4cl": 7.0,
+      "Tequila Cuervo 4cl": 6.0,
+      "Gin Gordons 4cl": 6.0,
+      "Vodka Smirnoff 4cl": 6.0,
+      "Rhum Havana 3 4cl": 6.0,
+      "Captain Morgan 4cl": 7.0,
+      "Cocktails 25cl": 9.0,
+      "Malibu 4cl": 5.0,
+      "Cocktail Signature 25cl": 10.0
+    }
+  },
+  "Apéritifs Photo": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Martini Rouge/Blanc/Rosé 6cl": 5.0,
+      "Ricard 4cl": 3.50,
+      "Suze 4cl": 5.0
+    }
+  },
+  "Vins Photo": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Rouge/Blanc/Rosé 12cl": 4.0,
+      "Rouge/Blanc/Rosé 25cl": 7.0,
+      "Champagne 12cl": 8.0
+    }
+  },
+  "Boissons Chaudes Photo": {
+    "tva_rate": 10,
+    "category": "boisson sans alcool",
+    "items": {
+      "Expresso": 1.75,
+      "Déca/Déca": 1.75,
+      "Grand café": 2.50,
+      "Café crème": 3.50,
+      "Cappuccino": 3.50,
+      "Chocolat": 3.50,
+      "Thé": 2.50,
+      "Infusion": 2.50
+    }
+  },
+  "Liqueurs & Digestifs": {
+    "tva_rate": 20,
+    "category": "alcool",
+    "items": {
+      "Cognac 5cl": 6.0,
+      "Armagnac 5cl": 6.0,
+      "Calvados 5cl": 6.0,
+      "Get 27 5cl": 5.0,
+      "La mante Ile 5cl": 5.0,
+      "Amaretto 5cl": 5.0
+    }
+  }
+}
